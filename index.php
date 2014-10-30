@@ -35,7 +35,7 @@
 
 		<?php endif; ?>
 		<?php endif; ?>
-<span>this is new fine loooks</span>
+<span>this is new fine loooks added by guest</span>
 	</div>
 </div>
 </main>
